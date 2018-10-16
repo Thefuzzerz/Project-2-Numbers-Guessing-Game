@@ -37,7 +37,7 @@ def start_game():
                 print
 
                 # variables specific to each round
-                answer = random.randint(0,10)
+                answer = random.randint(1,10)
                 guess_number = 1
                 guess_attempts = []
                 times_played += 1
@@ -50,7 +50,7 @@ def start_game():
                         guess = int(input("Please Enter your Guess  1 - 10 "))
 
                         # if guess is integer but outside range
-                        if guess > 10 or guess < 0:
+                        if guess > 10 or guess < 1:
                             print("\n** The Number Guessed is not in Range **\n")
 
                         else:
