@@ -34,7 +34,11 @@ def start_game():
                 print("\n" + border)
                 print(" " * (12-len(user_name)) + "Time to Play {}!".format(user_name))
                 print(border)
-                print
+                if times_played >= 1:
+                    if high_score == 1:
+                        print("\n The Current High Score is 1 try!!")
+                    else:
+                        print("\n The Current High Score is {} tries!!".format(high_score[0]))
 
                 # variables specific to each round
                 answer = random.randint(1,10)
