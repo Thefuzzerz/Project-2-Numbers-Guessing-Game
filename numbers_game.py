@@ -25,12 +25,12 @@ def start_game():
         play_game = input("Would you like to play? Yes / No ")
 
         while True:
-            if play_game.lower() == "no":
+            if play_game.lower() in ["no", "n"]:
                 print("\n" + border)
                 print(" " * (10-len(user_name)) + "Thanks for Playing {}!".format(user_name))
                 print(border)
                 sys.exit()
-            elif play_game.lower() == "yes":
+            elif play_game.lower() in ["yes", "y"]:
                 print("\n" + border)
                 print(" " * (12-len(user_name)) + "Time to Play {}!".format(user_name))
                 print(border)
