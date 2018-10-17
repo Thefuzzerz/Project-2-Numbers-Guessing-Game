@@ -13,7 +13,7 @@ def start_game():
     high_score = [""]
 
     # numbers game welcome menu
-    welcome = "Welcome to the Numbers Guessing Game!"
+    welcome = "Welcome to the Numbers Guessing Game!!"
     border = "-" * len(welcome)
     print(border)
     print(welcome)
