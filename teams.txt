@@ -1,0 +1,33 @@
+========================================
+TREEHOUSE SOCCER LEAGUE TEAMS AND ROSTER
+========================================
+
+
+********** SHARKS ROSTER**********
+
+Jill Tanner | Experienced Player: YES | Parent(s): Clara Tanner
+Karl Saygan | Experienced Player: YES | Parent(s): Heather Bledsoe
+Les Clay | Experienced Player: YES | Parent(s): Wynonna Brown
+Matt Gill | Experienced Player: NO | Parent(s): Charles and Sylvia Gill
+Joe Kavalier | Experienced Player: NO | Parent(s): Sam and Elaine Kavalier
+Chloe Alaska | Experienced Player: NO | Parent(s): David and Jamie Alaska
+
+
+********** DRAGONS ROSTER**********
+
+Joe Smith | Experienced Player: YES | Parent(s): Jim and Jan Smith
+Diego Soto | Experienced Player: YES | Parent(s): Robin and Sarika Soto
+Phillip Helm | Experienced Player: YES | Parent(s): Thomas Helm and Eva Jones
+Eva Gordon | Experienced Player: NO | Parent(s): Wendy and Mike Gordon
+Sammy Adams | Experienced Player: NO | Parent(s): Jeff Adams
+Sal Dali | Experienced Player: NO | Parent(s): Gala Dali
+
+
+********** RAPTORS ROSTER**********
+
+Bill Bon | Experienced Player: YES | Parent(s): Sara and Jenny Bon
+Suzane Greenberg | Experienced Player: YES | Parent(s): Henrietta Dumas
+Herschel Krustofski | Experienced Player: YES | Parent(s): Hyman and Rachel Krustofski
+Kimmy Stein | Experienced Player: NO | Parent(s): Bill and Hillary Stein
+Ben Finkelstein | Experienced Player: NO | Parent(s): Aaron and Jill Finkelstein
+Arnold Willis | Experienced Player: NO | Parent(s): Claire Willis
